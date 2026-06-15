@@ -1,0 +1,7 @@
+code_draft/
+output/
+temp/
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
